@@ -1,2 +1,4 @@
 Week Diary of Dingyuan Jiang ( z5143226 )
 Week 1
+
+Our group formed. I create the jira & github accounts and join the group. Our team disscussed basic plan of the project and assign tasks for everyone. My job is collectting information from others and  writting documents such as proposal and final report. 
