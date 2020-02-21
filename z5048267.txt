@@ -1,3 +1,5 @@
 Week Diary of Lipeng Tao ( z5048267 )
 
 Week1
+
+Group formed. I conducted a meeting in zoom and assign tasks to everyone. In the meeting, we disscussed which project to choose and how to achieve it. I also sign up github account and jija account. Besides scrum admin, I also research on the machine learning methods for the project.
