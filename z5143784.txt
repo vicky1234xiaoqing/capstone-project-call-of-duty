@@ -5,4 +5,6 @@ Group formed. I created the Jira & GitHub accounts. We discussed choosing for pr
 
 Week2
 
+I create the index.html and download some HTML5 framework like jquery and Vue. I also design the graphic interface.
+
 Week3
