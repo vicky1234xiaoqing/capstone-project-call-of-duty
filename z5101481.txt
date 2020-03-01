@@ -1,3 +1,7 @@
 Week Diary of Chunxiao Tang ( z5101481)
 
 Week1
+Group formed. We discussed about the allocated of tasks. My task is developing the backend of project , include database and a python http server. And I create the jira and github accounts.
+
+Week2
+I create app.py and use flask as the python server framework. I will build a RESTFul API for the front end developer and call Machine Learning module to calculate.
