@@ -1,3 +1,4 @@
 Week Diary of Chunxiao Tang ( z5101481)
 
 Week1
+Group formed. We discussed about the allocated of tasks. My task is developing the backend of project , include database and a python http server. And I create the jira and github accounts.
