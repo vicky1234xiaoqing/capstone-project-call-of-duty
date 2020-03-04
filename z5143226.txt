@@ -5,3 +5,6 @@ Our group formed. I create the jira & github accounts and join the group. Our te
 
 Week2
 I start wrote proposal's group formation and roles part.
+
+Week3
+Write other parts of proposal.
